@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AllForMonitors</title>
+    <link>https://github.com/Diegoafigue/AllForMonitors-releases</link>
+    <description>AllForMonitors updates</description>
+    <language>es</language>
+    <item>
+      <title>AllForMonitors 0.9.0</title>
+      <pubDate>Fri, 23 Oct 2026 07:20:34 GMT</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Primera beta</h3>
+<ul>
+<li><b>Control por DDC/CI</b> del brillo, contraste, volumen, modos de color y entrada de tus monitores externos, desde la barra de menú.</li>
+<li><b>Teclas de brillo y volumen</b> del teclado sobre el monitor bajo el cursor, con indicador propio: se puede arrastrar con el mouse, tiene marcas de pasos como el de macOS y estilo cristal puro en macOS 26.</li>
+<li><b>Brillo extendido:</b> sigue oscureciendo por debajo del mínimo del monitor.</li>
+<li><b>Escenas</b> (Trabajo, Juegos, Noche, Película y las tuyas), automáticas por horario, atardecer o modo oscuro, y en Concentración.</li>
+<li><b>Atajos de teclado</b> y acciones para la app Atajos y Siri.</li>
+<li>La pantalla de tu Mac también aparece cuando hay monitores externos.</li>
+<li>Ajustes › Monitores muestra el tamaño de cada monitor en pulgadas.</li>
+<li>Clic derecho en el ícono de la barra de menú para un menú rápido.</li>
+<li>Actualizaciones automáticas.</li>
+</ul>
+<h3>First beta</h3>
+<ul>
+<li><b>DDC/CI control</b> of your external monitors' brightness, contrast, volume, color modes and input, from the menu bar.</li>
+<li><b>Brightness and volume keys</b> on the monitor under the pointer, with the app's own indicator: drag it with the mouse, step marks like macOS's, and a pure glass style on macOS 26.</li>
+<li><b>Extended brightness:</b> keeps dimming below the monitor's minimum.</li>
+<li><b>Scenes</b> (Work, Gaming, Night, Movie and your own), automatic by schedule, sunset or dark mode, and in Focus.</li>
+<li><b>Keyboard shortcuts</b> and actions for the Shortcuts app and Siri.</li>
+<li>Your Mac's display also shows up when external monitors are connected.</li>
+<li>Settings › Monitors shows each monitor's size in inches.</li>
+<li>Right-click the menu bar icon for a quick menu.</li>
+<li>Automatic updates.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Diegoafigue/AllForMonitors-releases/releases/download/v0.9.0/AllForMonitors-0.9.0.dmg" type="application/octet-stream" sparkle:edSignature="oqId9n2BCcZ9Z4jqFLLrgn65aybnrcWSC9WWROEgeOznDF5ROVcGO689MUVW6Qk/2nlYnomn0k2df8hj9GyLBg==" length="3600586" />
+    </item>
+  </channel>
+</rss>
